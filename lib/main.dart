@@ -10,11 +10,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'PRUEBA 10',
+      title: 'CULO',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'PRUEBA 10'),
+      home: const MyHomePage(title: 'CULO'),
     );
   }
 }
