@@ -10,11 +10,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Autos Villa Rosa 2030',
+      title: 'Autos Villa Rosa 20000',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Autos Villa Rosa 2030'),
+      home: const MyHomePage(title: 'Autos Villa Rosa 20000'),
     );
   }
 }
